@@ -1,0 +1,15 @@
+.active {
+	font-weight: bold;
+}
+
+.lowest {
+	padding: 2px;
+	border: 1px solid #0f0;
+	font-weight: bold;
+	color: #f00;
+}
+
+.lowest-prev {
+	color: #f00;
+	font-weight: bold;
+}
