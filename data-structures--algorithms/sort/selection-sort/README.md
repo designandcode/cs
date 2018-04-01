@@ -7,6 +7,7 @@ Selection sort using extra array
 ```
 +++++++++++
 Iteration 0
+
 [2, 4, 1, 9, 8, 3]
 New []
 Min undefined
@@ -15,6 +16,7 @@ Pos undefined
 
 +++++++++++
 Iteration 1
+
 [2, 4, 1, 9, 8, 3]
  ^
 Min 2
@@ -42,6 +44,7 @@ New [1]
 
 +++++++++++
 Iteration 2
+
 [2, 4, 9, 8, 3]
  ^
 Min 2
@@ -64,6 +67,7 @@ New [1, 2]
 
 +++++++++++
 Iteration 3
+
 [4, 9, 8, 3]
  ^
 Min 4
@@ -87,6 +91,7 @@ New [1, 2, 3]
 
 +++++++++++
 Iteration 4
+
 [4, 9, 8]
  x
 
@@ -96,6 +101,7 @@ New [1, 2, 3, 4]
 
 +++++++++++
 Iteration 5
+
 [9, 8]
     x
 
@@ -105,6 +111,7 @@ New [1, 2, 3, 4, 8]
 
 +++++++++++
 Iteration 6
+
 [9]
  x
 
