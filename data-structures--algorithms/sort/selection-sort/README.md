@@ -108,11 +108,11 @@ Iteration 6
 [9]
  x
 
+[]
+New [1, 2, 3, 4, 8, 9]
 
 +++++++++++
 Finish
-[]
-New [1, 2, 3, 4, 8, 9]
 ```
 
 Interactive
